@@ -3,7 +3,7 @@ const posts = [
     {
         id: 1,
         title: "Willkommen bei TTH-Projects!",
-        date: "2024-01-15",
+        date: "2025-09-15",
         content: "Wir freuen uns, euch in unserer Gaming-Community begrüßen zu dürfen! Hier findet ihr alles rund um gemeinsame Gaming-Sessions, spannende Projekte und eine tolle Gemeinschaft.",
         tags: ["Community", "Gaming", "Willkommen"]
     },
